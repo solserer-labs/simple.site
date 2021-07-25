@@ -1,5 +1,7 @@
 ### Guide to uploading content and viewing it on sol.place
 
+0. Check out the example -> [grandrising.sol.place](https://grandrising.sol.place)
+
 1.  Install https://github.com/ipfs-shipyard/ipfs-deploy
 ```
 npm install -g ipfs-deploy
@@ -13,4 +15,5 @@ ipd build/
 {"ipsp":"your-content-hash-here"}
 ```
 ![image](https://user-images.githubusercontent.com/81876372/126907920-0c66c1ba-5aa2-4226-8d07-4659222ccc9c.png)
-4. That should be it for now. 
+4. That should be it for now. You should be able to see your site at your-domain.sol.place. 
+
